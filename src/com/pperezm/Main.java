@@ -1,7 +1,11 @@
 package com.pperezm;
 
 public class Main {
-
+/*
+@author Pablo Arturo Pérez Mata
+@email pablo.arturo.perez@gmail.com
+@description Practica de creación de interfaces
+*/
 
     public static void main(String[] args) {
 	// write your code here
